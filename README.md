@@ -2,4 +2,4 @@
 黑科技-首页网站
 
 
-> https://github.com/hpit-BAT
+>  https://hpit-bat.github.io/hpit-BAT-home/
