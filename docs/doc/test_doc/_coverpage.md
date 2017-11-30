@@ -9,3 +9,5 @@
 
 [GitHub](https://github.com/hpit-BAT)
 [Get Started](# 快速开始)
+<!-- 背景色 -->
+![color](#f0f0f0)
