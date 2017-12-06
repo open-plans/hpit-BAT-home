@@ -1,7 +1,7 @@
 - 入门
 
   - [快速开始](quick-start)
-  - [安装集成](install)
+  - [ssh-base-文档v1.0](sshbase)
 
 - 核心功能
 
