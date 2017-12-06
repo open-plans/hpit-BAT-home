@@ -1,7 +1,7 @@
 - 入门
 
   - [快速开始](quick-start)
-  - [ssh-base-文档v1.0](sshbase)
+  - [ssh-base-文档v1.0](ssh-base)
 
 - 核心功能
 
